@@ -1,5 +1,8 @@
 # Library Community Web Guidelines
 Library community guidelines for web design, web accessibility, and web-related administrative strategies.
+- [Wiki](https://github.com/jswelker/library-web-guidelines/wiki/Table-of-Contents)
+- [Issues](https://github.com/jswelker/library-web-guidelines/issues)
+- [Ost.io discussion forum](http://ost.io/@jswelker/library-web-guidelines)
 
 ## Contents
 - [Usability](https://github.com/jswelker/library-web-guidelines/wiki/Usability)
@@ -45,7 +48,7 @@ The project is divided into three phases:
 - **Review** - Evaluating sources. We will look for dated information and determine the scope of sources. Some sources will be eliminated at this point.
 - **Build** - Establishing specific recommendations and creating a document.
 
-The issue tracker is the primary communication channel for this project, as well as the to-do list. The wiki is where sources will be collected and where draft documents will live. A final publication channel is yet to be decided.
+The issue tracker is the primary communication channel for this project, as well as the to-do list. [An Ost.io forum](http://ost.io/@jswelker/library-web-guidelines) is also available for communication. The wiki is where sources will be collected and where draft documents will live. A final publication channel is yet to be decided.
 
 ## Future
 Each year, we will build a new branch for this project. New sources will be examined, and the document will be modified accordingly. A new edition will be published.
