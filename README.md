@@ -1,10 +1,13 @@
 # Library Community Web Guidelines
 Library community guidelines for web design, web accessibility, and web-related administrative strategies.
+
 - [Wiki](https://github.com/jswelker/library-web-guidelines/wiki/Table-of-Contents)
 - [Issues](https://github.com/jswelker/library-web-guidelines/issues)
 - [Ost.io discussion forum](http://ost.io/@jswelker/library-web-guidelines)
 
 ## Contents
+**Note**: This organizational structure is tentative and already outdated. It will be updated at a later time.  
+
 - [Usability](https://github.com/jswelker/library-web-guidelines/wiki/Usability)
  	- [General layout](https://github.com/jswelker/library-web-guidelines/wiki/Usability#general-layout)
  	- [Navigation](https://github.com/jswelker/library-web-guidelines/wiki/Usability#navigation)
